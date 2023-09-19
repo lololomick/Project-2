@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+#homelogo{
+    width: 50%;
+}
+.nav{
+    background-color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}

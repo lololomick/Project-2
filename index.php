@@ -14,16 +14,16 @@ session_start();
 </head>
 <body>
     <main>
-        <header>
-            <a href="#home"><img src="" alt=""></a>
+        <header class="header">
+            <a href="#home"><img id="homelogo" src="img/logo-PVV.png" alt="pvv logo"></a>
             <ul class="nav">
                 <li><a href="#home" class="active"><i class="fa fa-home"></i> Home</a></li>
                 <li><a href="#about"><i class="fa fa-user"></i> Over ons</a></li>
                 <li><a href="#projects"><i class="fa fa-list"></i> Nieuws</a></li>
-                <li><a href="#contact"><i class="fa fa-comments"></i> Doneren</a></li>
+                <li><a href="#contact"><i class="fa fa-donate"></i> Doneren</a></li>
                 <li><a href="#contact"><i class="fa fa-comments"></i> Contact</a></li>
             </ul>
         </header>
     </main>
 </body>
-</html>+
+</html>
