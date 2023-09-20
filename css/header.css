@@ -71,7 +71,13 @@ h1 {
   text-decoration: none;
 }
 .nav_link_active {
-    border-bottom: 4px solid #0073cf;
+  color: #e5007d;
+}
+.nav_link_active:link {
+  color: #e5007d;
+}
+.nav_link_active.nav_link_active:visited {
+  color: #e5007d;
 }
 p {
   padding-block: 1.5em;
