@@ -1,51 +1,17 @@
 body{
     margin: 0px;
 }
-a{
+.list_inline a{
     text-decoration: none;
     color: #0073cf;
-    font-size: 35px;
-    transition: all smooth 1s;
+    font-size: 20px;
 }
-a:visited{
+.list_inline a:link{
     color: #0073cf;
-    transition: all smooth 1s;
 }
-a:active{
+.list_inline a:visited{
     color: #0073cf;
-    transition: all ease-in-out 1s;
 }
-a:hover{
-    color: #0073cf;
-    border-bottom: 2px solid #0073cf;
-    transition: all smooth 1s;
-}
-#homelogo{
-    width: 100%;
-}
-#homeimg{
-    width: 10%;
-}
-.header{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    padding-bottom: 10px;
-    border-bottom: 5px solid black;
-} 
-#homeimg1{
-    box-shadow: 5px 5px 5px 5px;
-    border-radius: 15px;
-    width: 100%;
-    margin-inline: 5%;
-}
-#imageholder{
-    display: flex;
-    padding-top: 25px;
-    justify-content: center;
-}
-
 .footer { 
     display: flex;
     left: 0;
