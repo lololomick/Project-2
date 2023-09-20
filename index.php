@@ -28,21 +28,11 @@ session_start();
             </div>
         </section>
         <footer>
-            <div class="row footer-main">
-                <div class="col-six tab-full left footer-desc">
-                    <div class="footer-logo"></div> Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar.</div>
-                <div class="col-six tab-full right footer-subscribe">
-                    <h4>Get Notified</h4>
-                    <p>Quia quo qui sed odit. Quaerat voluptas autem necessitatibus vitae aut non alias sed quia. Ut itaque enim optio ut excepturi deserunt iusto porro.</p>
-                    <div class="subscribe-form">
-                        <form id="mc-form" class="group" novalidate="true"> <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required=""> <input type="submit" name="subscribe" value="Subscribe"> <label for="mc-email" class="subscribe-message"></label></form>
-                    </div>
-                </div>
-            </div>
             <div class="footer">
                 <p>footer</p>
             </div>
         </footer>
     </main>
 </body>
+</html>
 </html>

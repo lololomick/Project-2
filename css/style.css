@@ -3,14 +3,22 @@ body{
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #0073cf;
     font-size: 35px;
+    transition: all smooth 1s;
 }
 a:visited{
-    color: black;
+    color: #0073cf;
+    transition: all smooth 1s;
 }
 a:active{
-    color: rgb(219, 120, 145);
+    color: #0073cf;
+    transition: all ease-in-out 1s;
+}
+a:hover{
+    color: #0073cf;
+    border-bottom: 2px solid #0073cf;
+    transition: all smooth 1s;
 }
 #homelogo{
     width: 100%;
