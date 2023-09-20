@@ -9,6 +9,7 @@ session_start();
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="css/header.css" type="text/css">
+    <link rel="stylesheet" href="css/bestuur.css" type="text/css">
     <script src="https://kit.fontawesome.com/5bb7bb3e3a.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <title>Project 2</title>
@@ -31,15 +32,15 @@ session_start();
         </header>
         <section>
         <div class="container">
-            <div class="title"></div>
-            <div class="foto"></div>
-            <div class="foto1"></div>
-            <div class="foto2"></div>
-            <div class="foto4"></div>
-            <div class="foto5"></div>
-            <div class="foto6"></div>
-            <div class="foto7"></div>
-            <div class="text"></div>
+            <div class="title"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt=""></div>
+            <div class="foto"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt="">hallo1</div>
+            <div class="foto1">hallo2</div>
+            <div class="foto2">hallo3</div>
+            <div class="foto4">hallo4</div>
+            <div class="foto5">hallo5</div>
+            <div class="foto6">hallo6</div>
+            <div class="foto7">hallo7</div>
+            <div class="text">hallo8</div>
         </div>
         </section>
         <footer>
