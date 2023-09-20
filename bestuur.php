@@ -30,7 +30,17 @@ session_start();
         </div>
         </header>
         <section>
-            
+        <div class="container">
+            <div class="title"></div>
+            <div class="foto"></div>
+            <div class="foto1"></div>
+            <div class="foto2"></div>
+            <div class="foto4"></div>
+            <div class="foto5"></div>
+            <div class="foto6"></div>
+            <div class="foto7"></div>
+            <div class="text"></div>
+        </div>
         </section>
         <footer>
         <footer>
