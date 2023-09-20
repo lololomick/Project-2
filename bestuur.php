@@ -1,22 +1,19 @@
-<?php
-session_start();
-?>
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link rel="stylesheet" href="css/header.css" type="text/css">
-    <link rel="stylesheet" href="css/bestuur.css" type="text/css">
-    <script src="https://kit.fontawesome.com/5bb7bb3e3a.js" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <title>Project 2</title>
-</head>
-<body>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+      <link rel="stylesheet" href="css/style.css" type="text/css">
+      <link rel="stylesheet" href="css/header.css" type="text/css">
+      <link rel="stylesheet" href="css/bestuur.css" type="text/css">
+      <script src="https://kit.fontawesome.com/5bb7bb3e3a.js" crossorigin="anonymous"></script>
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <title>Project 2</title>
+  </head>
+  <body>
     <main>
-    <header class="header sticky sticky--top js-header">
+      <header class="header sticky sticky--top js-header">
         <div class="grid">
           <nav class="navigation">
             <ul class="list list_inline">
@@ -42,15 +39,12 @@ session_start();
             <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h3>Vicevoorzitter</h3><h2>Nick</h2></div>
             <div class="text"><h3>Het Hoofdbestuur is het hoogste bestuursorgaan van de JOVD, maar organiseert in principe niets op lokaal niveau. Het Hoofdbestuur heeft veel taken en verantwoordelijkheden, waaronder het onderhouden van interne en externe contacten, het bijhouden van de financiële en secretariële administratie, het coördineren van promotionele of politieke campagnes en het organiseren van grote landelijke evenementen. Op deze pagina kun je kennis maken met het Hoofdbestuur van de JOVD.</h3></div>
         </div>
-        </section>
-        <footer>
-        <footer>
-            <div class="cr-con"><a class="footer1" href="bestuur.php" target="_blank">Over ons |</a> <a class="footer1" href="contact.php" target="_blank">contact info |</a>
-              <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/" target="_blank">Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
-            </div>
-      </footer>
-        </footer>
+      </section>
     </main>
-</body>
-</html>
+    <footer>
+      <div class="cr-con"><a class="footer1" href="bestuur.php" target="_blank">Over ons |</a> <a class="footer1" href="contact.php" target="_blank">contact info |</a>
+        <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/" target="_blank">Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
+      </div>
+    </footer>
+  </body>
 </html>
