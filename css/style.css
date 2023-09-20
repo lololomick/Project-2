@@ -1,18 +1,21 @@
 body{
+    margin: 0;
+}
+main{
     margin-inline: 5%;
     margin-top: 0%;
     margin-bottom: 0%;
 }
 .list_inline a{
     text-decoration: none;
-    color: #0073cf;
+    color: black;
     font-size: 20px;
 }
 .list_inline a:link{
-    color: #0073cf;
+    color: black;
 }
 .list_inline a:visited{
-    color: #0073cf;
+    color: black;
 }
 
 footer{
