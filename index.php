@@ -30,7 +30,27 @@ session_start();
         </div>
         </header>
         <section>
-            
+            <div class="container">
+                <img class="baseimage" src="img/nieuws/splash.jpg" alt="">
+                <input class="cta1" type="button" value="hallo">
+                <input class="cta2" type="button" value="hallo">
+                <div class="nieuws_item nieuws1">
+                    <p>test</p>
+                </div>
+                <div class="nieuws_item nieuws2">
+                    <p>test</p>
+                </div>
+                <div class="nieuws_item nieuws3">
+                    <p>test</p>
+                </div>
+                <div class="nieuws_item nieuws4">
+                    <p>test</p>
+                </div>
+                <div class="signup">
+                    <p>test</p>
+                    <input type="text" name="" id="">
+                </div>
+            </div>
         </section>
         <footer>
         <footer>

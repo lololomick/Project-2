@@ -28,9 +28,30 @@ footer{
   padding: 1rem 4rem;
   text-align: center;
 }
-
-
-
 .footer1{
-    color: white;
-  }
+  color: white;
+}
+.container {
+  display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  grid-template-rows: 0.75fr 0.5fr 1fr 1fr 0.5fr; 
+  gap: 10px 10px; 
+  grid-template-areas: 
+    "baseimage baseimage"
+    "cta1 cta2"
+    "nieuws1 nieuws2"
+    "nieuws3 nieuws4"
+    "signup signup"; 
+}
+.baseimage { 
+    grid-area: baseimage;
+    width: 100%;
+    padding-inline: 2%;
+}
+.cta1 { grid-area: cta1; }
+.cta2 { grid-area: cta2; }
+.nieuws1 { grid-area: nieuws1; }
+.nieuws2 { grid-area: nieuws2; }
+.nieuws3 { grid-area: nieuws3; }
+.nieuws4 { grid-area: nieuws4; }
+.signup { grid-area: signup; }
