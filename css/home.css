@@ -26,13 +26,17 @@
 .signup { grid-area: signup; }
 
 button {
-    background-color: #FFFFFF;
+    background-color: #e5007d;
     border: 1px solid rgb(164, 164, 164);
     border-radius: .5rem;
-    color: #000000;
+    color: #ffffff;
     font-size: .875rem;
     font-weight: 600;
     line-height: 1.25rem;
     padding: .75rem 1rem;
     cursor: pointer;
+    height: 50%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
