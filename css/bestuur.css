@@ -3,7 +3,8 @@
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-auto-columns: 1fr;
     gap: 10px 10px;
-    padding: 1%;
+    align-items: end;
+    justify-items: center;
     grid-auto-flow: row;
     grid-template-areas:
       "title title title"
@@ -12,13 +13,20 @@
       "foto2 text text";
   }
   
-  .title { grid-area: title;}
+  .title { grid-area: title;
+        padding-bottom: 10px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
   
 .image{
     width: 100%;
 }
 
-  .foto { grid-area: foto; }
+  .foto { grid-area: foto; 
+
+}
   
   .foto1 { grid-area: foto1; }
   
@@ -32,5 +40,10 @@
   
   .foto7 { grid-area: foto7; }
   
-  .text { grid-area: text; }
+  .text { grid-area: text; 
+    background-color: darkblue;
+    color: white;
+    margin-bottom: 5%;
+
+}
   
