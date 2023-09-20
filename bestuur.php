@@ -33,16 +33,14 @@ session_start();
         <section>
         <div class="container">
             <div class="title"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt=""></div>
-            <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h2>Bram</h2></div>
-            <div class="foto1"><img class="image1" src="img/bestuur/david.jpg" alt=""><h2>David</h2></div>
-            <div class="foto2"><img class="image1" src="img/bestuur/mauk.jpg" alt=""><h2>Mauk</h2></div>
-            <div class="foto4"><img class="image1" src="img/bestuur/michiel.jpg" alt=""><h2>Michiel</h2></div>
-            <div class="foto5"><img class="image1" src="img/bestuur/noah.jpg" alt=""><h2>Noah</h2></div>
-            <div class="foto6"><img class="image1" src="img/bestuur/tim.jpg" alt=""><h2>Tim</h2></div>
-            <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h2>Mick</h2></div>
-            <div class="text"><h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus libero, ultricies a libero sed, tincidunt eleifend mi. Vestibulum nec tortor nec est tincidunt venenatis. Morbi dapibus, ante nec egestas tristique, mi lacus pretium nulla, vel ultricies lacus velit id ipsum. In vitae augue nisi. Donec vitae orci eros. Praesent eu ornare erat. Vivamus ornare interdum auctor.
-
-Curabitur nec urna eu diam eleifend pretium. Duis mollis leo a sem rutrum commodo. Mauris a dui eu risus dapibus imperdiet non a orci. Donec vehicula pulvinar ligula, non molestie urna egestas a. Nullam ut libero dui. Phasellus et faucibus enim, ac vestibulum mi. Donec volutpat, turpis eget venenatis sodales, nisl ipsum ullamcorper lacus, vitae pulvinar tellus mi nec neque. Phasellus sagittis nisi quis nibh ornare interdum. Quisque enim nibh, rhoncus id condimentum et, tristique vel ligula. Morbi eget turpis commodo, accumsan tellus vitae, suscipit elit. Mauris elementum finibus ipsum. Donec rhoncus nunc vel gravida laoreet. In lacus enim, porta in massa ac, iaculis convallis enim. Nulla lorem nisl, pellentesque eget neque et, bibendum condimentum turpis. Sed posuere dapibus gravida.</h3></div>
+            <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h3>Bestuurslid Voorlichting</h3><h2>Bram</h2></div>
+            <div class="foto1"><img class="image1" src="img/bestuur/david.jpg" alt=""><h3>Bestuurslid Organisatie</h3><h2>David</h2></div>
+            <div class="foto2"><img class="image1" src="img/bestuur/mauk.jpg" alt=""><h3>Bestuurslid Politiek</h3><h2>Mauk</h2></div>
+            <div class="foto4"><img class="image1" src="img/bestuur/michiel.jpg" alt=""><h3>Voorzitter</h3><h2>Michiel</h2></div>
+            <div class="foto5"><img class="image1" src="img/bestuur/noah.jpg" alt=""><h3>Penningmeester, Secretaris</h3><h2>Noah</h2></div>
+            <div class="foto6"><img class="image1" src="img/bestuur/tim.jpg" alt=""><h3>Bestuurslid Marketing</h3><h2>Tim</h2></div>
+            <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h3>Vicevoorzitter</h3><h2>Nick</h2></div>
+            <div class="text"><h3>Het Hoofdbestuur is het hoogste bestuursorgaan van de JOVD, maar organiseert in principe niets op lokaal niveau. Het Hoofdbestuur heeft veel taken en verantwoordelijkheden, waaronder het onderhouden van interne en externe contacten, het bijhouden van de financiële en secretariële administratie, het coördineren van promotionele of politieke campagnes en het organiseren van grote landelijke evenementen. Op deze pagina kun je kennis maken met het Hoofdbestuur van de JOVD.</h3></div>
         </div>
         </section>
         <footer>
