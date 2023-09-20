@@ -39,13 +39,10 @@ session_start();
                     </div>
                 </div>
             </div>
-            <div class="row footer-bottom">
-                <div class="col-twelve">
-                    <div class="copyright"> <span>© Copyright JOVD 2023</span></div>
-                    <div class="go-top" style="display: block;"> <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon-arrow-up" aria-hidden="true"></i></a></div>
-                </div>
+            <div class="footer">
+                <p>footer</p>
             </div>
         </footer>
     </main>
 </body>
-</html>1
+</html>

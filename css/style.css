@@ -37,3 +37,14 @@ a:active{
     padding-top: 25px;
     justify-content: center;
 }
+
+.footer { 
+    display: flex;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    justify-content: center;
+}
