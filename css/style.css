@@ -50,9 +50,32 @@ a:hover{
     display: flex;
     left: 0;
     bottom: 0;
+    margin-top: 2%;
     height: 50px;
     width: 100%;
     background-color: red;
     color: white;
     justify-content: center;
 }
+
+footer{
+    margin-top: 5%;
+    margin-bottom: 0%;
+    position:relative;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.cr-con{
+  background-color: darkblue;
+  color: white;
+  padding: 1rem 4rem;
+  text-align: center;
+}
+
+
+
+.footer1{
+    color: white;
+  }
