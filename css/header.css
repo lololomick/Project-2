@@ -4,7 +4,6 @@
 .grid {
   inline-size: 90%;
   margin-inline: auto;
-  max-inline-size: 48em;
 }
 .sticky {
   position: sticky;
@@ -28,7 +27,6 @@ html {
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.75;
-  margin: 0;
   min-block-size: 100vh;
 }
 .header {

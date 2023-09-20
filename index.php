@@ -9,6 +9,7 @@ session_start();
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="css/header.css" type="text/css">
+    <link rel="stylesheet" href="css/home.css" type="text/css">
     <script src="https://kit.fontawesome.com/5bb7bb3e3a.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <title>Project 2</title>
@@ -31,9 +32,9 @@ session_start();
         </header>
         <section>
             <div class="container">
-                <img class="baseimage" src="img/nieuws/splash.jpg" alt="">
-                <input class="cta1" type="button" value="hallo">
-                <input class="cta2" type="button" value="hallo">
+                <img class="baseimage" src="img/placeholder.jpg" alt="">
+                <button class="cta1 buttons">Contact</button>
+                <button class="cta2 buttons">Sign Up</button>
                 <div class="nieuws_item nieuws1">
                     <p>test</p>
                 </div>
