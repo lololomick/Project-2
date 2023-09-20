@@ -33,7 +33,7 @@ session_start();
         <section>
         <div class="container">
             <div class="title"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt=""></div>
-            <div class="foto"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt="">hallo1</div>
+            <div class="foto"><img class="image" src="img/bestuur/bram.jpg" alt=""> <h2>hallo1</h2></div>
             <div class="foto1">hallo2</div>
             <div class="foto2">hallo3</div>
             <div class="foto4">hallo4</div>
