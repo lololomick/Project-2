@@ -33,8 +33,8 @@ session_start();
             <section>
                 <div class="container">
                     <img class="baseimage" src="img/placeholder.jpg" alt="">
-                    <a class="cta1 button" href="">Contact</a>
-                    <a class="cta2 button" href="">Contact</a>
+                    <a class="cta1 button" href="contact.php">Contact</a>
+                    <a class="cta2 button" href="#signup">Sign up</a>
                     <div class="nieuws_item nieuws1">
                         <p>test</p>
                     </div>
@@ -47,7 +47,7 @@ session_start();
                     <div class="nieuws_item nieuws4">
                         <p>test</p>
                     </div>
-                    <div class="signup">
+                    <div id="signup" class="signup">
                         <p>test</p>
                         <input type="text" name="" id="">
                     </div>
@@ -55,8 +55,8 @@ session_start();
             </section>
         </main>
         <footer>
-            <div class="cr-con"><a class="footer1" href="bestuur.php" target="_blank">Over ons |</a> <a class="footer1" href="contact.php" target="_blank">contact info |</a>
-              <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/" target="_blank">Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
+            <div class="cr-con"><a class="footer1" href="bestuur.php"">Over ons |</a> <a class="footer1" href="contact.php"  >contact info |</a>
+              <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/"  >Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
             </div>
         </footer>
     </body>

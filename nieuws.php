@@ -31,8 +31,8 @@
       </section>
     </main>
     <footer>
-      <div class="cr-con"><a class="footer1" href="bestuur.php" target="_blank">Over ons |</a> <a class="footer1" href="contact.php" target="_blank">contact info |</a>
-        <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/" target="_blank">Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
+      <div class="cr-con"><a class="footer1" href="bestuur.php"  >Over ons |</a> <a class="footer1" href="contact.php"  >contact info |</a>
+        <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/"  >Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
       </div>
     </footer>
   </body>
