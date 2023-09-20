@@ -22,6 +22,30 @@ session_start();
             <a href="#contact"><i class="fa fa-donate"></i> Doneren</a>
             <a href="#contact"><i class="fa fa-comments"></i> Contact</a>
         </header>
+        <section>
+            <div id="imageholder">
+                <img id="homeimg1" src="img\nieuws\splash__photo--2.jpg" alt="">
+            </div>
+        </section>
+        <footer>
+            <div class="row footer-main">
+                <div class="col-six tab-full left footer-desc">
+                    <div class="footer-logo"></div> Proin eget tortor risus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar.</div>
+                <div class="col-six tab-full right footer-subscribe">
+                    <h4>Get Notified</h4>
+                    <p>Quia quo qui sed odit. Quaerat voluptas autem necessitatibus vitae aut non alias sed quia. Ut itaque enim optio ut excepturi deserunt iusto porro.</p>
+                    <div class="subscribe-form">
+                        <form id="mc-form" class="group" novalidate="true"> <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required=""> <input type="submit" name="subscribe" value="Subscribe"> <label for="mc-email" class="subscribe-message"></label></form>
+                    </div>
+                </div>
+            </div>
+            <div class="row footer-bottom">
+                <div class="col-twelve">
+                    <div class="copyright"> <span>© Copyright Zipzoom 2023</span></div>
+                    <div class="go-top" style="display: block;"> <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon-arrow-up" aria-hidden="true"></i></a></div>
+                </div>
+            </div>
+        </footer>
     </main>
 </body>
 </html>1
