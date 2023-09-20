@@ -30,14 +30,19 @@
         <section>
         <div class="container">
             <div class="title"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt=""></div>
-            <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h3>Bestuurslid Voorlichting</h3><h2>Bram</h2></div>
-            <div class="foto1"><img class="image1" src="img/bestuur/david.jpg" alt=""><h3>Bestuurslid Organisatie</h3><h2>David</h2></div>
-            <div class="foto2"><img class="image1" src="img/bestuur/mauk.jpg" alt=""><h3>Bestuurslid Politiek</h3><h2>Mauk</h2></div>
-            <div class="foto4"><img class="image1" src="img/bestuur/michiel.jpg" alt=""><h3>Voorzitter</h3><h2>Michiel</h2></div>
-            <div class="foto5"><img class="image1" src="img/bestuur/noah.jpg" alt=""><h3>Penningmeester, Secretaris</h3><h2>Noah</h2></div>
-            <div class="foto6"><img class="image1" src="img/bestuur/tim.jpg" alt=""><h3>Bestuurslid Marketing</h3><h2>Tim</h2></div>
-            <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h3>Vicevoorzitter</h3><h2>Nick</h2></div>
-            <div class="text"><h3>Het Hoofdbestuur is het hoogste bestuursorgaan van de JOVD, maar organiseert in principe niets op lokaal niveau. Het Hoofdbestuur heeft veel taken en verantwoordelijkheden, waaronder het onderhouden van interne en externe contacten, het bijhouden van de financiële en secretariële administratie, het coördineren van promotionele of politieke campagnes en het organiseren van grote landelijke evenementen. Op deze pagina kun je kennis maken met het Hoofdbestuur van de JOVD.</h3></div>
+            <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h3 class="text1">Bestuurslid Voorlichting</h3><h2 class="text2">Bram</h2></div>
+            <div class="foto1"><img class="image1" src="img/bestuur/david.jpg" alt=""><h3 class="text1">Bestuurslid Organisatie</h3><h2 class="text2">David</h2></div>
+            <div class="foto2"><img class="image1" src="img/bestuur/mauk.jpg" alt=""><h3 class="text1">Bestuurslid Politiek</h3><h2 class="text2">Mauk</h2></div>
+            <div class="foto4"><img class="image1" src="img/bestuur/michiel.jpg" alt=""><h3 class="text1">Voorzitter</h3><h2 class="text2">Michiel</h2></div>
+            <div class="foto5"><img class="image1" src="img/bestuur/noah.jpg" alt=""><h3 class="text1">Penningmeester, Secretaris</h3><h2 class="text2">Noah</h2></div>
+            <div class="foto6"><img class="image1" src="img/bestuur/tim.jpg" alt=""><h3 class="text1">Bestuurslid Marketing</h3><h2 class="text2">Tim</h2></div>
+            <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h3 class="text1">Vicevoorzitter</h3><h2 class="text2">Nick</h2></div>
+            <div class="text">
+                <h3>Het Hoofdbestuur is het hoogste bestuursorgaan van de JOVD, maar organiseert in principe niets op lokaal niveau.
+                Het Hoofdbestuur heeft veel taken en verantwoordelijkheden, waaronder het onderhouden van interne en externe contacten,
+                het bijhouden van de financiële en secretariële administratie, het coördineren van promotionele of politieke campagnes 
+                en het organiseren van grote landelijke evenementen. Op deze pagina kun je kennis maken met het Hoofdbestuur van de JOVD.</h3>
+            </div>
         </div>
       </section>
     </main>
