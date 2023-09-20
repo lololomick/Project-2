@@ -35,7 +35,7 @@ session_start();
         <footer>
         <footer>
             <div class="cr-con"><a class="footer1" href="bestuur.php" target="_blank">Over ons |</a> <a class="footer1" href="contact.php" target="_blank">contact info |</a>
-              <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/" target="_blank">Facebook </a> <div class='cr-con'> KVK:88599665 | BTW NL999888492Z09 |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
+              <a href="mailto: anil@jovd.nl" class="footer1">Email |</a> <a class="footer1" href="https://www.Facebook.com/" target="_blank">Facebook </a> <div class='cr-con'> Jongerenorganisatie Vrijheid en Democratie |  &copy; <script>document.write(new Date().getFullYear());</script> </div>
             </div>
       </footer>
         </footer>
