@@ -5,7 +5,7 @@
   gap: 10px 10px; 
   grid-template-areas: 
     "baseimage baseimage"
-    "cta1 cta2"
+    "cta cta"
     "nieuws1 nieuws2"
     "nieuws3 nieuws4"
     "signup signup"; 
@@ -17,6 +17,7 @@
     margin-left: auto;
     margin-right: auto;
 }
+.button_background { grid-area: cta; }
 .cta1 { grid-area: cta1; }
 .cta2 { grid-area: cta2; }
 .nieuws1 { grid-area: nieuws1; }
@@ -26,21 +27,21 @@
 .signup { grid-area: signup; }
 
 .button {
- color: #090909;
- padding: 0.7em 1.7em;
- font-size: 18px;
- border-radius: 0.5em;
- background: #ffffff;
- border: 3px solid pink;
- transition: all .3s;
- box-shadow: 6px 6px 12px pink, -6px -6px 12px #ffffff;
- width: 75%;
- height: 150px;
+
+ color: white;
+ padding: 10px;
+ text-align: center;
+ background-color: #e5007d;
+ border-radius: 5px;
+ width: 20%;  
+ height: 50px;
  margin-left: auto;
  margin-right: auto;
 }
-
-.button:active {
- color: #666;
- box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+.button_background{
+  display: flex;
+  align-items: center;
+  z-index: -1;
+  margin-top: -5%;
+  background-color: #d9eeff;
 }
