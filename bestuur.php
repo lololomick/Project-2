@@ -12,22 +12,22 @@
       <title>Project 2</title>
   </head>
   <body>
-    <main>
-      <header class="header sticky sticky--top js-header">
+    <header class="header sticky sticky--top js-header">
         <div class="grid">
           <nav class="navigation">
             <ul class="list list_inline">
               <li class="nav_item"><a href="index.php" class="nav_link img_nav"><img class="nav_img" src="img/logo.png" alt="logo"></a></li>
-              <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
-              <li class="nav_item"><a href="bestuur.php" class="nav_link nav_link_active">Over ons</a></li>
+              <li class="nav_item"><a href="index.php" class="nav_link nav_link_active">Home</a></li>
+              <li class="nav_item"><a href="bestuur.php" class="nav_link">Over ons</a></li>
               <li class="nav_item"><a href="nieuws.php" class="nav_link">Nieuws</a></li>
               <li class="nav_item"><a href="doneren.php" class="nav_link">Doneren</a></li>
               <li class="nav_item"><a href="contact.php" class="nav_link">Contact</a></li>
             </ul>
           </nav>
         </div>
-        </header>
-        <section>
+    </header>
+    <main>
+      <section>
         <div class="container">
             <div class="title"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt=""></div>
             <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h3 class="text1">Bestuurslid Voorlichting</h3><h2 class="text2">Bram van Bon</h2></div>
