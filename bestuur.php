@@ -17,8 +17,8 @@
           <nav class="navigation">
             <ul class="list list_inline">
               <li class="nav_item"><a href="index.php" class="nav_link img_nav"><img class="nav_img" src="img/logo.png" alt="logo"></a></li>
-              <li class="nav_item"><a href="index.php" class="nav_link nav_link_active">Home</a></li>
-              <li class="nav_item"><a href="bestuur.php" class="nav_link">Over ons</a></li>
+              <li class="nav_item"><a href="index.php" class="nav_link">Home</a></li>
+              <li class="nav_item"><a href="bestuur.php" class="nav_link nav_link_active">Over ons</a></li>
               <li class="nav_item"><a href="nieuws.php" class="nav_link">Nieuws</a></li>
               <li class="nav_item"><a href="doneren.php" class="nav_link">Doneren</a></li>
               <li class="nav_item"><a href="contact.php" class="nav_link">Contact</a></li>
