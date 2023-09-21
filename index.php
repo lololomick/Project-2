@@ -1,6 +1,8 @@
-<?php
-session_start();
+<?php 
+session_start(); 
+require('php/connect.php');
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -38,7 +40,7 @@ session_start();
                        <a class="cta2 button" href="#signup">Sign up</a>
                     </div>
                     <div class="nieuws_item nieuws1">
-                        
+                    <?php require('php/homenieuws.php'); ?>
                     </div>
                     <div class="nieuws_item nieuws2">
                         <p>test</p>
