@@ -30,13 +30,13 @@
         <section>
         <div class="container">
             <div class="title"><img class="image" src="img/bestuur/benvoosterbosch_jovd_45.jpg" alt=""></div>
-            <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h3 class="text1">Bestuurslid Voorlichting</h3><h2 class="text2">Bram</h2></div>
-            <div class="foto1"><img class="image1" src="img/bestuur/david.jpg" alt=""><h3 class="text1">Bestuurslid Organisatie</h3><h2 class="text2">David</h2></div>
-            <div class="foto2"><img class="image1" src="img/bestuur/mauk.jpg" alt=""><h3 class="text1">Bestuurslid Politiek</h3><h2 class="text2">Mauk</h2></div>
-            <div class="foto4"><img class="image1" src="img/bestuur/michiel.jpg" alt=""><h3 class="text1">Voorzitter</h3><h2 class="text2">Michiel</h2></div>
-            <div class="foto5"><img class="image1" src="img/bestuur/noah.jpg" alt=""><h3 class="text1">Penningmeester, Secretaris</h3><h2 class="text2">Noah</h2></div>
-            <div class="foto6"><img class="image1" src="img/bestuur/tim.jpg" alt=""><h3 class="text1">Bestuurslid Marketing</h3><h2 class="text2">Tim</h2></div>
-            <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h3 class="text1">Vicevoorzitter</h3><h2 class="text2">Nick</h2></div>
+            <div class="foto"><img class="image1" src="img/bestuur/bram.jpg" alt=""> <h3 class="text1">Bestuurslid Voorlichting</h3><h2 class="text2">Bram van Bon</h2></div>
+            <div class="foto1"><img class="image1" src="img/bestuur/david.jpg" alt=""><h3 class="text1">Bestuurslid Organisatie</h3><h2 class="text2">David Laseur</h2></div>
+            <div class="foto2"><img class="image1" src="img/bestuur/mauk.jpg" alt=""><h3 class="text1">Bestuurslid Politiek</h3><h2 class="text2">Mauk Bresser</h2></div>
+            <div class="foto4"><img class="image1" src="img/bestuur/michiel.jpg" alt=""><h3 class="text1">Voorzitter</h3><h2 class="text2">Michiel Suijker</h2></div>
+            <div class="foto5"><img class="image1" src="img/bestuur/noah.jpg" alt=""><h3 class="text1">Penningmeester, Secretaris</h3><h2 class="text2">Noah Gijsman</h2></div>
+            <div class="foto6"><img class="image1" src="img/bestuur/tim.jpg" alt=""><h3 class="text1">Bestuurslid Marketing</h3><h2 class="text2">Tim Pompstra</h2></div>
+            <div class="foto7"><img class="image1" src="img/bestuur/12.jpg" alt=""><h3 class="text1">Vicevoorzitter</h3><h2 class="text2">Nick Suijker</h2></div>
             <div class="text">
                 <h3>Het Hoofdbestuur is het hoogste bestuursorgaan van de JOVD, maar organiseert in principe niets op lokaal niveau.
                 Het Hoofdbestuur heeft veel taken en verantwoordelijkheden, waaronder het onderhouden van interne en externe contacten,
