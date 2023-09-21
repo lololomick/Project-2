@@ -1,6 +1,6 @@
 .container {  display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 30% 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 60% 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-auto-columns: 1fr;
     gap: 10px 10px;
     grid-auto-flow: row;
@@ -43,5 +43,4 @@
   
   .image{
     width: 100%;
-    height: 100%;
   }
