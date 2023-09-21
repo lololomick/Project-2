@@ -15,28 +15,30 @@ session_start();
         <title>Project 2</title>
     </head>
     <body>
+        <header class="header sticky sticky--top js-header">
+            <div class="grid">
+              <nav class="navigation">
+                <ul class="list list_inline">
+                  <li class="nav_item"><a href="index.php" class="nav_link img_nav"><img class="nav_img" src="img/logo.png" alt="logo"></a></li>
+                  <li class="nav_item"><a href="index.php" class="nav_link nav_link_active">Home</a></li>
+                  <li class="nav_item"><a href="bestuur.php" class="nav_link">Over ons</a></li>
+                  <li class="nav_item"><a href="nieuws.php" class="nav_link">Nieuws</a></li>
+                  <li class="nav_item"><a href="doneren.php" class="nav_link">Doneren</a></li>
+                  <li class="nav_item"><a href="contact.php" class="nav_link">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+        </header>
         <main>
-            <header class="header sticky sticky--top js-header">
-                <div class="grid">
-                  <nav class="navigation">
-                    <ul class="list list_inline">
-                      <li class="nav_item"><a href="index.php" class="nav_link img_nav"><img class="nav_img" src="img/logo.png" alt="logo"></a></li>
-                      <li class="nav_item"><a href="index.php" class="nav_link nav_link_active">Home</a></li>
-                      <li class="nav_item"><a href="bestuur.php" class="nav_link">Over ons</a></li>
-                      <li class="nav_item"><a href="nieuws.php" class="nav_link">Nieuws</a></li>
-                      <li class="nav_item"><a href="doneren.php" class="nav_link">Doneren</a></li>
-                      <li class="nav_item"><a href="contact.php" class="nav_link">Contact</a></li>
-                    </ul>
-                  </nav>
-                </div>
-            </header>
             <section>
                 <div class="container">
                     <img class="baseimage" src="img/placeholder.jpg" alt="">
-                    <a class="cta1 button" href="contact.php">Contact</a>
-                    <a class="cta2 button" href="#signup">Sign up</a>
+                    <div class="button_background">
+                       <a class="cta1 button" href="contact.php">Contact</a>
+                       <a class="cta2 button" href="#signup">Sign up</a>
+                    </div>
                     <div class="nieuws_item nieuws1">
-                        <p>test</p>
+                        
                     </div>
                     <div class="nieuws_item nieuws2">
                         <p>test</p>
